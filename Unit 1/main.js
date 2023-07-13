@@ -16,7 +16,7 @@ function fibonacci(n){
 
 
 console.log('The Fibonacci value of 10 is: ' + fibonacci(10));
-
+console.log(""); //blank line
 //*********************************************************
 
 //****Assignment #1, Section 2
